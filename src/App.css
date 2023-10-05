@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.TextArea {
+  width: 400px;
+  margin-right: 20px;
+}
+
+
+.Button {
+  color: white;
+  background-color: rgb(56, 161, 247);
+  border: none;
+  height: 40px;
+  cursor: pointer;
+}
+
+.Container {
+  display: flex;
+  align-items: start;
+  justify-content: space-around;
+}
+
+.Content {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.Sidebar {
+  width: 350px;
+  background-color: white;
+  padding: 20px;
+}
